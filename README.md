@@ -3,6 +3,8 @@
 Help video creators better evaluate video descriptions when posting videos.
 Assist platforms in evaluating and adjusting video exposure.
 
+## Additional Resources
+For datasets and already-trained models, please refer to the following link: https://drive.google.com/drive/folders/1PwC08qrR-kMgoUCT7-FMcLfMZef8SxBL?usp=sharing
 
 ## Steps for visualization:
 1. Open a terminal or command prompt in project directory.
@@ -29,4 +31,4 @@ Assist platforms in evaluating and adjusting video exposure.
 ```bash
 python ~/airflow/dags/scrap_predict_new.py
 ```
-7. Trigger the DAG in Airflow
+6. Trigger the DAG in Airflow
