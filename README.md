@@ -5,6 +5,7 @@ Assist platforms in evaluating and adjusting video exposure.
 
 ## Additional Resources
 For datasets and already-trained models, please refer to the following link: https://drive.google.com/drive/folders/1PwC08qrR-kMgoUCT7-FMcLfMZef8SxBL?usp=sharing
+For other materials like technical report, slide, videos, lease refer to the following link (id 202312-6): https://www.ee.columbia.edu/~cylin/course/bigdata/projects/
 
 ## Steps for visualization:
 1. Open a terminal or command prompt in project directory.
